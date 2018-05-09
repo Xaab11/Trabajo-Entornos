@@ -10,9 +10,10 @@ public class HolaMundo {
 		System.out.println("Adios Mundo java ");
 		
 		
-		
+		System.out.println("PRUEBA DE CONFLICOS ESTO ES UNA MIERDA");
 		
 		System.out.println("PRUEBA DE CONFLICOS wrefwwqgvewewrewrgergererregergeeg ");
+		
 	}
 
 }
