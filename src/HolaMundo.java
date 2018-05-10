@@ -9,6 +9,8 @@ public class HolaMundo {
 		System.out.println("Hola Mundo java");
 		System.out.println("Adios Mundo java");
 		System.out.println("Comprobacion conflictos");
+		System.out.println("PRUEBA DE CONFLICTO");
+
 
 		
 		
